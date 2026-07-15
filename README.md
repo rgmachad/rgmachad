@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rgmachad.
-- 👀 I’m interested in Python, HTML, CSS, JS.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on Python Projects.
-- 📫 How to reach me rodolfo.machado.ece@gmail.com
+- 👀 I’m interested in Java, HTML, CSS, JS.
+- 🌱 I’m currently learning Java.
+- 💞️ I’m looking to collaborate on Java Projects.
+- 📫 How to reach me rmachado@escoladotrabalhador40.com.br.
 
 <!---
 rgmachad/rgmachad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
